@@ -5,4 +5,4 @@
 4. kemudian buka Mendeley Dekstop, lalu pilih "View"  kemudian pilih "Citation Style" terakhir pilih "APA 7th dkk"
 5. lalu cobalah kembali melakukan cite pada Word anda, dan jangan lupa pada referensi style Mendeley pada word pilih sesuai dengan yang ada pada Mendeley Dekstop yaitu "APA 7th dkk"
 6. berhasil melakukan perubahan cite dari et-al menjadi dkk. jika tidak berhasil, cobalah uninstall plugin MS Word pada Mendeley Dekstop kemudian install kembali.
-# SILAHKAN MENCOBA, TERIMA KASIH
+# TERIMA KASIH
