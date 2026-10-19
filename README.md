@@ -43,7 +43,7 @@ Contoh hasil:
 Metode ini bisa dipakai untuk gaya sitasi apa pun, tidak hanya APA.
 
 1. Download file `.csl` gaya yang diinginkan dari [repositori CSL](https://github.com/citation-style-language/styles).
-2. Buka file dengan Notepad atau editor teks.
+2. Buka file dengan Notepad atau editor teks (VS Code atau Antigravity).
 3. Cari tag penutup `</info>`. Tepat di bawahnya, tambahkan:
 
    ```xml
