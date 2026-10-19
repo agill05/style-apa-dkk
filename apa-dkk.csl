@@ -37,10 +37,6 @@
   <locale xml:lang="en">
     <terms>
       <term name="et-al">dkk.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="en">
-    <terms>
       <term name="editortranslator" form="short">
         <single>ed. &amp; trans.</single>
         <multiple>eds. &amp; trans.</multiple>
