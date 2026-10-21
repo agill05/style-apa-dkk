@@ -18,14 +18,14 @@ Contoh hasil:
 
 ## Cara Memasang
 
-1. Download file [apa.csl](apa.csl). Klik tombol **Download raw file** di GitHub.
+1. Download file [apa-dkk.csl](apa-dkk.csl). Klik tombol **Download raw file** di GitHub.
 2. Tutup Mendeley Desktop.
 3. Buka folder berikut di File Explorer:
    `C:\Users\NAMA_ANDA\AppData\Local\Mendeley Ltd\Mendeley Desktop\citationStyles-1.0\`
    Ganti `NAMA_ANDA` dengan nama pengguna Windows Anda. Folder `AppData` tersembunyi. Aktifkan **View → Hidden items** di File Explorer jika tidak terlihat.
 4. Salin `apa-dkk.csl` ke subfolder tersebut.
-5. Buka Mendeley Desktop. Pilih **View → Citation Style → APA Style 7th edition**.
-6. Buka Microsoft Word. Pilih tab **Mendeley → Style → APA Style 7th edition**, lalu klik **Refresh**.
+5. Buka Mendeley Desktop. Pilih **View → Citation Style → APA Style 7th edition - dkk**.
+6. Buka Microsoft Word. Pilih tab **Mendeley → Style → APA Style 7th edition - dkk**, lalu klik **Refresh**.
 7. Lakukan sitasi ulang. Tulisan "et al." berubah menjadi "dkk."
 
 ## Jika Gagal
